@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\work\alipay_demo\app\libs\alipaySdk-20151112.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5ce758768906f045b279735e7cefc0b89160d9d6">
+        <dex dex="D:\work\alipay_demo\app\build\intermediates\pre-dexed\debug\alipaySdk-20151112-5691e8cb9a6d66cb88b50866fa1bab2e807deb25.jar" />
+    </item>
+    <item
+        jar="D:\work\alipay_demo\app\libs\android-support-v13.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5b3db0befb5f9a8c310ca661ea2f67da12871fa2">
+        <dex dex="D:\work\alipay_demo\app\build\intermediates\pre-dexed\debug\android-support-v13-ef459a7b1afa1aefe77450d551fc5634aaced213.jar" />
+    </item>
+
+</items>
